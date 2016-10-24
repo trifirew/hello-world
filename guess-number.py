@@ -6,7 +6,7 @@ print("By: trifirew")
 
 
 print()
-minn = int(input("What is the minimun number for you to guess? "))
+minn = int(input("What is the minimum number for you to guess? "))
 maxn = int(input("What is the maximum number for you to guess? "))
 print()
 print("You will be guessing a number between " + str(minn) + " and " + str(maxn))
